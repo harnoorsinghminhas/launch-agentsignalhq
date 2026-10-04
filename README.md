@@ -1,7 +1,6 @@
 # agentsignalhq.com
 
-Founders' Preview site, served by GitHub Pages (custom domain in CNAME; do not delete it).
-Built from the cloud arena winner (titan-projects branch feat/prelaunch-agentsignalhq-20261003).
+Static site served by GitHub Pages. The custom domain is set in `CNAME`; do not delete it.
 
 ## Swap in the real logo
 The header brand mark carries id="logo". Replace img/mark-a.png (same name, same aspect) or change that element's src. The footer mark uses the same file.

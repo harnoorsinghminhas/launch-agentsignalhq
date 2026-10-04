@@ -123,7 +123,7 @@ abbr[title]{text-decoration:none}
 .src a::after{content:" \2197";font-size:11px}
 
 /* ---------- hero ---------- */
-/* The two names, big and bold, first thing after the logo (his 10-03 18:59 rule): anyone can read them out loud. Largest text after the logo, so the hero headline below is sized down to sit under it. */
+/* The two names, big and bold, first thing after the logo: anyone can read them out loud. Largest text after the logo, so the hero headline below is sized down to sit under it. */
 .terms{margin:18px auto 2px;max-width:24ch;text-align:center;font:800 clamp(1.75rem,7.6vw,3.6rem)/1.06 var(--f-d);letter-spacing:-.02em;text-wrap:balance;color:var(--ink)}
 .terms .t-si{color:var(--acc)}
 @media (min-width:900px){.terms{max-width:none;margin-top:26px}}
