@@ -102,3 +102,10 @@
 .hq-final{display:grid;gap:18px;align-items:center}
 .hq-final img{width:auto;height:190px;margin-inline:auto}
 @media (min-width:760px){.hq-final{grid-template-columns:auto minmax(0,1fr)}}
+.co-list{list-style:none;padding:0;margin:0;display:grid;gap:12px;grid-template-columns:repeat(auto-fit,minmax(240px,1fr))}
+.co-card{border:1px solid var(--line);border-radius:14px;padding:16px;background:#fff;display:grid;gap:4px;align-content:start}
+.co-name{font-weight:800;font-size:17px}
+.co-st{font-size:12px;font-weight:800;letter-spacing:.05em;text-transform:uppercase;color:var(--acc-ink)}
+.co-dom{font-size:13.5px;color:var(--muted)}
+.co-d{font-size:15px;color:var(--ink-2)}
+.co-who{margin-top:18px;font-size:15.5px;color:var(--ink-2)}
